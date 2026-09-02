@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Recipe.Api/Recipe.Api.csproj" />
+  <Project Path="Recipe.Application/Recipe.Application.csproj" />
+  <Project Path="Recipe.Domain/Recipe.Domain.csproj" />
+  <Project Path="Recipe.Infrastructure/Recipe.Infrastructure.csproj" />
+  <Project Path="Recipe.Test/Recipe.Test.csproj" />
+</Solution>
